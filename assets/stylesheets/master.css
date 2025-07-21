@@ -851,7 +851,7 @@ main {
     > div {
       /*----------------- our shop ------------------*/
       &:nth-of-type(1) {
-        height: 450px;
+        height: 510px;
         background-color: #f7f7f7;
         border-radius: 25px;
         padding: 25px;
@@ -862,7 +862,7 @@ main {
         }
         > h2 {
           font-size: 36px;
-          margin: 20px 0 50px;
+          margin: 20px 0 30px;
           > span {
             color: #1b7ffa;
           }
@@ -870,7 +870,7 @@ main {
         > p {
           font-size: 16px;
           color: #4a4a4a;
-          margin-bottom: 50px;
+          margin-bottom: 20px;
         }
         > a {
           padding: 10px 30px;
@@ -888,7 +888,7 @@ main {
       /*----------------- news letter ------------------*/
       &:nth-of-type(2) {
         margin-top: 20px;
-        height: 450px;
+        height: 510px;
         background-color: #f7f7f7;
         border-radius: 25px;
         padding: 25px;
@@ -947,7 +947,7 @@ footer {
   background-image: url(../images/banner-bg.jpg);
   background-size: cover;
   border-radius: 100px 100px 0 0;
-  margin: 0 auto;
+  margin: 80px auto 0;
   display: flex;
   justify-content: center;
   align-items: center;
