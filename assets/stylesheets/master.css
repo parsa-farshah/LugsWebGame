@@ -879,6 +879,7 @@ main {
           height: 50px;
           border-radius: 25px;
           transition: 0.4s ease-in-out;
+          margin-top: 50px;
           &:hover {
             background-color: #1b7ffa;
           }
