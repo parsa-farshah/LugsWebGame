@@ -420,7 +420,7 @@ main {
           &:nth-of-type(1) {
             width: 100%;
             height: 427px;
-            margin: 0 12px 30px;
+            margin: 0 0px 30px;
             background-color: #eeeeee;
             border-radius: 25px;
             cursor: pointer;
@@ -454,6 +454,7 @@ main {
               display: flex;
               justify-content: space-between;
               align-items: center;
+              position: relative;
               > div {
                 &:nth-of-type(1) {
                   > span {
@@ -468,6 +469,8 @@ main {
                   }
                 }
                 &:nth-of-type(2) {
+                  position: absolute;
+                  right: 25px;
                   width: 40px;
                   height: 40px;
                   background-color: #ee626b;
@@ -488,7 +491,7 @@ main {
           &:nth-of-type(2) {
             width: 100%;
             height: 427px;
-            margin: 0 12px 30px;
+            margin: 0 0px 30px;
             background-color: #eeeeee;
             border-radius: 25px;
             cursor: pointer;
@@ -522,6 +525,7 @@ main {
               display: flex;
               justify-content: space-between;
               align-items: center;
+              position: relative;
               > div {
                 &:nth-of-type(1) {
                   > span {
@@ -536,6 +540,8 @@ main {
                   }
                 }
                 &:nth-of-type(2) {
+                  position: absolute;
+                  right: 25px;
                   width: 40px;
                   height: 40px;
                   background-color: #ee626b;
@@ -556,7 +562,7 @@ main {
           &:nth-of-type(3) {
             width: 100%;
             height: 427px;
-            margin: 0 12px 30px;
+            margin: 0 0px 30px;
 
             background-color: #eeeeee;
             border-radius: 25px;
@@ -591,6 +597,7 @@ main {
               display: flex;
               justify-content: space-between;
               align-items: center;
+              position: relative;
               > div {
                 &:nth-of-type(1) {
                   > span {
@@ -605,6 +612,8 @@ main {
                   }
                 }
                 &:nth-of-type(2) {
+                  position: absolute;
+                  right: 25px;
                   width: 40px;
                   height: 40px;
                   background-color: #ee626b;
@@ -625,7 +634,7 @@ main {
           &:nth-of-type(4) {
             width: 100%;
             height: 427px;
-            margin: 0 12px 30px;
+            margin: 0 0px 30px;
             background-color: #eeeeee;
             border-radius: 25px;
             cursor: pointer;
@@ -659,6 +668,7 @@ main {
               display: flex;
               justify-content: space-between;
               align-items: center;
+              position: relative;
               > div {
                 &:nth-of-type(1) {
                   > span {
@@ -673,6 +683,8 @@ main {
                   }
                 }
                 &:nth-of-type(2) {
+                  position: absolute;
+                  right: 25px;
                   width: 40px;
                   height: 40px;
                   background-color: #ee626b;
