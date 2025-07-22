@@ -43,6 +43,7 @@ It features a clean homepage, trending games section, and categorized game listi
 - 📸 Instagram: [@parsa_dehghanpour_dv](https://www.instagram.com/parsa_dehghanpour_dv)  
 - 💼 LinkedIn: [Parsa Dehghan Pour Farashah](https://linkedin.com/in/parsa-dehghan-pour-farashah-85ab04250)  
 - 💻 GitHub: [parsa-farshah](https://github.com/parsa-farshah)  
+- 🎥 YouTube: [@FrontEndFresh](https://www.youtube.com/@FrontEndFresh)  
 - 📩 Email: parsafarashah2002@gmail.com
 
 ---
@@ -67,4 +68,5 @@ It features a clean homepage, trending games section, and categorized game listi
 
 ---
 
-> 🔔 Tip: Open the demo link in full screen and resize your browser to experience the responsive design in action!
+> 🔔 Tip: Open the live demo in full screen and resize your browser to experience the responsive behavior in action!
+
