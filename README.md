@@ -51,20 +51,20 @@ It features a clean homepage, trending games section, and categorized game listi
 ## 📸 Responsive Screenshots
 
 ### 💻 Desktop View
-<img src="screenshots/desktop-1.jpg" alt="Desktop View 1" width="100%">
-<img src="screenshots/desktop-2.jpg" alt="Desktop View 2" width="100%">
+<img src="assets/images/1.jpg" alt="Desktop View 1" width="100%">
+<img src="assets/images/2.jpg" alt="Desktop View 2" width="100%">
 
 ---
 
 ### 📱 Tablet View
-<img src="screenshots/tablet-1.jpg" alt="Tablet View 1" width="100%">
-<img src="screenshots/tablet-2.jpg" alt="Tablet View 2" width="100%">
+<img src="assets/images/3.jpg" alt="Tablet View 1" width="100%">
+<img src="assets/images/4.jpg" alt="Tablet View 2" width="100%">
 
 ---
 
 ### 📲 Mobile View
-<img src="screenshots/mobile-1.jpg" alt="Mobile View 1" width="100%">
-<img src="screenshots/mobile-2.jpg" alt="Mobile View 2" width="100%">
+<img src="assets/images/5.jpg" alt="Mobile View 1" width="100%">
+<img src="assets/images/6.jpg" alt="Mobile View 2" width="100%">
 
 ---
 
